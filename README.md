@@ -150,4 +150,12 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
   <img src="https://komarev.com/ghpvc/?username=VardaanGupta01&style=for-the-badge&color=2196F3&labelColor=0d001a&label=PROFILE+VIEWS" />
 </p>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=110,2&height=80&section=footer"/>
+
+<sub>⭐ If you like my work, consider starring my repos! Built with ❤️ by Vardaan Gupta</sub>
+
+</div>
+
 
