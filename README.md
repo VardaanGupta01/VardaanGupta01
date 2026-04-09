@@ -128,3 +128,7 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 
 <br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VardaanGupta01&bg_color=0d1117&color=00bfff&line=764ba2&point=c9d1d9&area=true&area_color=00bfff&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
+
+</div>
+
