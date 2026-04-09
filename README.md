@@ -77,3 +77,23 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 </a>
 
 </p>
+
+## 💻 Tech Stack  
+
+<div align="center">
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,mysql" />
+
+<br/>
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+
+<br/>
+
+**Backend & Tools**  
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,git,github,vscode" />
+
+</div>
+
