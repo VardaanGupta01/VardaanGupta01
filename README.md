@@ -136,3 +136,14 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
   <img src="https://raw.githubusercontent.com/VardaanGupta01/VardaanGupta01/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+## 🏅 Achievements & Highlights
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=VardaanGupta01&theme=discord&no-frame=true&no-bg=true&column=6" width="100%"/>
+
+</div>
+
+
+---
+
