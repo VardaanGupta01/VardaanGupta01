@@ -10,3 +10,7 @@
 
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=32&duration=3000&pause=700&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing...;Competitive+Programmer;Full+Stack+Developer;Problem+Solver;Code.+Debug.+Repeat." />
+</p>
