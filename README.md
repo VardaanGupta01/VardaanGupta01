@@ -1,8 +1,13 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm <span style="color:#00F7FF;">Vardaan Gupta</span></h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=110,2&height=200&section=header&text=Vardaan%20Gupta&fontSize=60&fontColor=f3f3f3&fontAlignY=33&desc=Competitive%20Programmer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
+<p align="center">
+  <b>Competitive Programmer • Full-Stack Developer • Problem Solver</b>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing...;Vardaan+Gupta;Competitive+Programmer+%7C+Full-Stack+Developer;Building+High-Performance+Systems;Exploring+DSA+%26+Scalable+Architectures;Code.+Debug.+Optimize.+Repeat." />
+</p>
+
 
 <p align="center">
   <img src="./assets/Vardaan_header.svg?v=1" />
