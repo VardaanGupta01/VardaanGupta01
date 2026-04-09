@@ -116,3 +116,15 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VardaanGupta01&theme=2077" height="170"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VardaanGupta01&theme=2077" height="170"/>
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VardaanGupta01&hide_border=true&background=0d001a&ring=ff6fd8&fire=f97316&currStreakLabel=ff6fd8&sideLabels=a855f7&dates=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
+
+</div>
+
+
+<div align="center">
+
+
+<br/>
+
