@@ -14,3 +14,21 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=32&duration=3000&pause=700&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing...;Competitive+Programmer;Full+Stack+Developer;Problem+Solver;Code.+Debug.+Repeat." />
 </p>
+
+
+## 🚀 About Me
+
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+
+I am a **Software Engineering student** at **IIIT Allahabad** with a strong foundation in algorithmic problem solving and high-performance web architecture.
+
+* 👨‍💻 **Competitive Coder:** Solved **400+ problems** across platforms. **Knight** on LeetCode (Top 5%), **Pupil** on Codeforces.  
+* 🧠 **Core Interests:** Data Structures and **WebAssembly** optimizations.  
+* 🏆 **Background:** Secured **AIR 5001** (99.69%ile) in JEE Main 2024, **AIR 7697** in JEE Advanced 2024, and scored **326/390 in BITSAT 2024 (Top 0.5%)**.
+
+
+
+<br clear="both">
+
+---
+<br/>
