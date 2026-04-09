@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="16" ry="16" fill="#0b0f14"/>
+
+  <!-- Top bar -->
+  <rect x="0" y="0" width="1200" height="40" rx="16" ry="16" fill="#1f2937"/>
+  <circle cx="30" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="50" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="20" r="6" fill="#27c93f"/>
+
+  <!-- Terminal text -->
+  <text x="40" y="90" fill="#9ca3af" font-family="Menlo, Monaco, monospace" font-size="18">
+    vardaan@macbook:~$
+  </text>
+
+  <text x="40" y="130" fill="#22c55e" font-family="Menlo, Monaco, monospace" font-size="20">
+    whoami
+  </text>
+
+  <text x="40" y="170" fill="#e5e7eb" font-family="Menlo, Monaco, monospace" font-size="26">
+    Vardaan Gupta
+  </text>
+
+  <text x="40" y="210" fill="#22c55e" font-family="Menlo, Monaco, monospace" font-size="20">
+    cat about.txt
+  </text>
+
+  <text x="40" y="240" fill="#93c5fd" font-family="Menlo, Monaco, monospace" font-size="18">
+    BTech IT Undergraduate
+  </text>
+
+  <text x="40" y="270" fill="#93c5fd" font-family="Menlo, Monaco, monospace" font-size="18">
+    Competitive Programming • Web Development
+  </text>
+
+  <text x="40" y="300" fill="#22c55e" font-family="Menlo, Monaco, monospace" font-size="20">
+    cat contact.txt
+  </text>
+
+  <text x="40" y="330" fill="#60a5fa" font-family="Menlo, Monaco, monospace" font-size="20">
+    vardaangupta060@gmail.com
+  </text>
+
+  <text x="40" y="350" fill="#9ca3af" font-family="Menlo, Monaco, monospace" font-size="18">
+    vardaan@macbook:~$ _
+  </text>
+</svg>
