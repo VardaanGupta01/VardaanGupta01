@@ -13,11 +13,13 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: VardaanGupta01
-          outputs: dist/github-contribution-grid-snake-dark.svg
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          publish_dir: ./dist
+          publish_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
