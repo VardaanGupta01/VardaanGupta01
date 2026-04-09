@@ -44,3 +44,12 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
     
   </a>
 </p>
+
+## 🌐 Competitive Programming Dashboard
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Vardaan_gupta01?theme=dark&font=Fira+Code&ext=heatmap" height="200"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=vardaangupta060&theme=github_dark&force_username=true" height="200"/>
+
+</p>
