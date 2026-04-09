@@ -102,3 +102,9 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 > 🚧 Currently building high-performance projects focused on **WebAssembly and scalable systems**.  
 > Stay tuned — exciting projects dropping soon! 🚀
 
+## 📚 Currently Learning
+
+- Advanced **Data Structures & Algorithms**
+- **WebAssembly (Wasm)** for high-performance web apps
+- System Design fundamentals
+
