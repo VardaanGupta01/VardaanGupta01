@@ -146,4 +146,8 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VardaanGupta01&style=for-the-badge&color=2196F3&labelColor=0d001a&label=PROFILE+VIEWS" />
+</p>
+
 
