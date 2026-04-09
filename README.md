@@ -108,3 +108,11 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 - **WebAssembly (Wasm)** for high-performance web apps
 - System Design fundamentals
 
+## 📊 GitHub Activity
+
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VardaanGupta01&theme=2077" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VardaanGupta01&theme=2077" height="170"/>
+
