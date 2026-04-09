@@ -32,3 +32,15 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 
 ---
 <br/>
+
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/vardaanguptaaa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vardaangupta060@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    
+  </a>
+</p>
