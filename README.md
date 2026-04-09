@@ -61,3 +61,19 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 <img src="https://img.shields.io/badge/CodeChef-3★%20(1624)-5B4638?style=for-the-badge&logo=codechef"/>
 
 </p>
+
+<p align="center">
+
+<a href="https://leetcode.com/Vardaan_gupta01">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/vardaangupta060">
+  <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=flat-square&logo=codeforces"/>
+</a>
+
+<a href="https://www.codechef.com/users/vardaangupta01">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=flat-square&logo=codechef"/>
+</a>
+
+</p>
