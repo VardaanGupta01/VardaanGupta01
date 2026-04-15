@@ -91,12 +91,12 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 <br/>
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" />
 
 <br/>
 
 **Backend & Tools**  
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nextjs,threejs,supabase,nodejs,mongodb,mysql,github,vscode" />
 
 </div>
 
