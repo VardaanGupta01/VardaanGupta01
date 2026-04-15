@@ -166,7 +166,12 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
 
 
 <br>
-<hr style="border: 1px solid #00FFAA; box-shadow: 0 0 10px #00FFAA;">
 <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="600" alt="line" />
+  <br><br>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=%E2%9A%A1+MAIN+CHARACTER+ENERGY+%E2%9A%A1;CODE+COOKED+BY+VARDAAN+GUPTA+%F0%9F%8D%B3;SMASH+THAT+%E2%AD%90+BUTTON!" alt="Neon Typing" />
+  
+  <br><br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="600" alt="line" />
 </div>
