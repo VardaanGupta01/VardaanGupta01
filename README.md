@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00F7FF;">Vardaan Gupta</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00FFAA;">Vardaan Gupta</span></h1>
 
 <p align="center">
   <b>Competitive Programmer • Full-Stack Developer • Problem Solver</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Initializing...;Vardaan+Gupta;Competitive+Programmer+%7C+Full-Stack+Developer;Building+High-Performance+Systems;Exploring+DSA+%26+Scalable+Architectures;Code.+Debug.+Optimize.+Repeat." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=800&color=00FFAA&center=true&vCenter=true&width=800&lines=Initializing...;Vardaan+Gupta;Competitive+Programmer+%7C+Full-Stack+Developer;Building+High-Performance+Systems;Exploring+DSA+%26+Scalable+Architectures;Code.+Debug.+Optimize.+Repeat." />
 </p>
 
 
@@ -153,12 +153,20 @@ I am a **Software Engineering student** at **IIIT Allahabad** with a strong foun
   <img src="https://komarev.com/ghpvc/?username=VardaanGupta01&style=for-the-badge&color=2196F3&labelColor=0d001a&label=PROFILE+VIEWS" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=110,2&height=80&section=footer"/>
 
 <sub>⭐ If you like my work, consider starring my repos! Built with ❤️ by Vardaan Gupta</sub>
 
+
+
+
+</div> -->
+
+
+<br>
+<hr style="border: 1px solid #00FFAA; box-shadow: 0 0 10px #00FFAA;">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&pause=800&color=00FFAA&center=true&vCenter=true&width=600&lines=⚡+MAIN+CHARACTER+ENERGY+⚡;CODE+COOKED+BY+VARDAAN+GUPTA+🍳;SMASH+THAT+⭐+BUTTON!" alt="Neon Typing" />
 </div>
-
-
